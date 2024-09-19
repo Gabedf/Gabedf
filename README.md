@@ -28,6 +28,7 @@
 <p><strong>Intermediate:</strong></p>
 <ul>
   <li>Python</li>
+  <li>Java</li>
   <li>JavaScript</li>
 </ul>
 

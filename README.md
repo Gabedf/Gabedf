@@ -19,14 +19,9 @@
 <h2>What I'm Doing Now</h2>
 <p>Currently, I am pursuing a Systems of Information degree and seeking practical experiences to develop my skills. I am involved in personal projects and constantly striving to learn more about the technology field.</p>
 
-<h2>My Languages</h2>
-<p><strong>Basic:</strong></p>
+<h2>My Technologies</h2>
 <ul>
   <li>C</li>
-  <li>ReactJS</li>
-</ul>
-<p><strong>Intermediate:</strong></p>
-<ul>
   <li>Python</li>
   <li>Java</li>
   <li>JavaScript</li>

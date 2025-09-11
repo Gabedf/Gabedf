@@ -1,43 +1,56 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Gabriel Fonseca's GitHub Profile</title>
-</head>
-<body>
+# 👋 Hi, I'm Gabriel Fonseca  
 
-<h1>Hello, I'm Gabriel Fonseca!</h1>
+Welcome to my GitHub!  
+I'm a **Systems Information student (5th semester)** focused on becoming a **Web Developer with Java and Spring Boot**.  
+I enjoy building backend systems that are **clean, reliable, and scalable**, while also having experience in **data analysis and visualization**.  
 
-<p>I am a dedicated programming student with a fascinating and enriching journey in the field.</p>
+---
 
-<h2>My Journey</h2>
-<p>My interest in programming began during the pandemic in 2021, when I had my first contacts with programming logic and Python. At that time, I was focused on my Economics degree, but the pandemic made me reconsider my plans.</p>
-<p>Even while pursuing Economics, I continued to explore programming gradually. Over time, I realized that my true passion was in technology. In 2022, I decided to redirect all my energy towards programming, leaving Economics behind.</p>
-<p>In 2023, I was accepted into a Systems of Information course and am fully dedicated to learning and growing in this field. I am excited to apply my knowledge and explore new technologies!</p>
+## 🚀 What I'm Working On
+- 🌐 **Web Development (Main Focus)**  
+  - Building RESTful APIs and backend systems with **Java + Spring Boot**  
+  - Applying MVC, DTOs, Services, and Repository patterns  
+  - Exploring **Next.js** for front-end integration with Java backends  
+  - Migrating academic projects from console apps to full web backends  
 
-<h2>What I'm Doing Now</h2>
-<p>Currently, I am pursuing a Systems of Information degree and seeking practical experiences to develop my skills. I am involved in personal projects and constantly striving to learn more about the technology field.</p>
+- 📊 **Data Projects (Background)**  
+  - Vehicle scoring & classification system (Snowflake SQL + Polars + Streamlit)  
+  - ETL pipelines, backtests, and dashboards for monitoring performance  
+  - Fuzzy-matching algorithms for cleaning and standardizing data  
 
-<h2>My Technologies</h2>
-<ul>
-  <li>C</li>
-  <li>Python</li>
-  <li>Java</li>
-  <li>JavaScript</li>
-</ul>
+- 🧑‍💻 **Academic & Personal Learning**  
+  - C# with MVC for system design  
+  - Exploring software architecture patterns and clean code practices  
 
-<h2>My Areas of Interest</h2>
-<ul>
-  <li>Artificial Intelligence</li>
-  <li>Information Security</li>
-  <li>Data Science</li>
-</ul>
+---
 
-<h2>Connect with Me</h2>
-<p>Feel free to explore my GitHub. Here, you'll find personal studies, ongoing projects, and other initiatives that reflect my growth and interests in programming.</p>
+## 🛠️ Tech Stack
+- **Languages**: Java, C#, Python, JavaScript, C  
+- **Frameworks**: Spring Boot, Next.js, Streamlit  
+- **Databases & Tools**: Snowflake SQL, Pandas, Polars, Git, Tableau  
+- **Other Interests**: Machine Learning basics, Data Visualization, Microservices  
 
-<p><em>By Gabriel Fonseca</em></p>
+---
 
-</body>
-</html>
+## 📚 Currently Learning
+- Advanced **Spring Boot** (REST controllers, DTOs, layered architecture)  
+- Integration of **Java backends** with front-end frameworks  
+- Best practices in **clean code, testing, and software design**  
+
+---
+
+## 🌍 About Me
+- 🇺🇸 Born in the US, 🇧🇷 raised in Brazil  
+- 🎯 Focused on growing as a **Web Developer with Java**  
+- 🏀 Enjoy combining technical projects with personal passions (like sports stats)  
+- ✨ Believe that strong foundations in **backend + data** make me versatile  
+
+---
+
+## 📫 How to Reach Me
+- **LinkedIn**: [linkedin.com/in/gabrielfonseca](#)  
+- **Email**: gabdwork@gmail.com  
+
+---
+
+> “I’m building my path as a Web Developer — with Java as my foundation, and a mindset of clean code, scalability, and continuous learning.”

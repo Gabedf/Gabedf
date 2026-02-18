@@ -1,56 +1,74 @@
-# 👋 Hi, I'm Gabriel Fonseca  
+# Hi, I'm Gabriel Fonseca
 
-Welcome to my GitHub!  
-I'm a **Systems Information student (5th semester)** focused on becoming a **Web Developer with Java and Spring Boot**.  
-I enjoy building backend systems that are **clean, reliable, and scalable**, while also having experience in **data analysis and visualization**.  
+I'm a **Systems Information student (5th semester)** passionate about **software engineering and backend development — especially with Java**.
 
----
+At the same time, I work daily in **Data Engineering**, building pipelines, transforming data, and solving real business problems using **Python and SQL**.
 
-## 🚀 What I'm Working On
-- 🌐 **Web Development (Main Focus)**  
-  - Building RESTful APIs and backend systems with **Java + Spring Boot**  
-  - Applying MVC, DTOs, Services, and Repository patterns  
-  - Exploring **Next.js** for front-end integration with Java backends  
-  - Migrating academic projects from console apps to full web backends  
-
-- 📊 **Data Projects (Background)**  
-  - Vehicle scoring & classification system (Snowflake SQL + Polars + Streamlit)  
-  - ETL pipelines, backtests, and dashboards for monitoring performance  
-  - Fuzzy-matching algorithms for cleaning and standardizing data  
-
-- 🧑‍💻 **Academic & Personal Learning**  
-  - C# with MVC for system design  
-  - Exploring software architecture patterns and clean code practices  
+I don’t see development and data as separate worlds.
+I see them as different layers of the same system.
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages**: Java, C#, Python, JavaScript, C  
-- **Frameworks**: Spring Boot, Next.js, Streamlit  
-- **Databases & Tools**: Snowflake SQL, Pandas, Polars, Git, Tableau  
-- **Other Interests**: Machine Learning basics, Data Visualization, Microservices  
+## What Drives Me
+
+* Systems thinking — understanding how everything connects end-to-end
+* Backend architecture & clean design (Java + Spring Boot)
+* Data pipelines, transformations & performance optimization
+* Building scalable, reliable and well-structured systems
+
+Whether it's a REST API, a domain model, or a data pipeline, I care about structure, clarity and long-term maintainability.
 
 ---
 
-## 📚 Currently Learning
-- Advanced **Spring Boot** (REST controllers, DTOs, layered architecture)  
-- Integration of **Java backends** with front-end frameworks  
-- Best practices in **clean code, testing, and software design**  
+## What I Do
+
+### Software Development (Passion & Long-Term Focus)
+
+* Backend development with **Java + Spring Boot**
+* Layered architecture (Controller → Service → Repository)
+* DTOs, REST APIs, clean code principles
+* Exploring microservices and scalable design
+
+### Data Engineering (Professional Experience)
+
+* SQL (CTEs, window functions, analytical queries)
+* Python (Polars, Pandas)
+* Data transformation & validation
+* ETL workflows and automation
+* Data modeling and performance optimization
 
 ---
 
-## 🌍 About Me
-- 🇺🇸 Born in the US, 🇧🇷 raised in Brazil  
-- 🎯 Focused on growing as a **Web Developer with Java**  
-- 🏀 Enjoy combining technical projects with personal passions (like sports stats)  
-- ✨ Believe that strong foundations in **backend + data** make me versatile  
+## Tech Stack
+
+**Languages:** Java, Python, C#, JavaScript, C
+**Backend:** Spring Boot
+**Data:** SQL, Polars, Pandas
+**Tools:** Git, Tableau, Snowflake
 
 ---
 
-## 📫 How to Reach Me
-- **LinkedIn**: [linkedin.com/in/gabrielfonseca](#)  
-- **Email**: gabdwork@gmail.com  
+## Current Focus
+
+* Deepening backend expertise with Java
+* Strengthening software architecture foundations
+* Advancing in data engineering fundamentals
+* Designing systems that properly connect application and data layers
 
 ---
 
-> “I’m building my path as a Web Developer — with Java as my foundation, and a mindset of clean code, scalability, and continuous learning.”
+## About Me
+
+* Born in the US, raised in Brazil
+* Focused on long-term growth in tech
+* Interested in engineering, performance, business impact and scalability
+* I believe strong foundations beat hype
+
+---
+
+## Contact
+
+* LinkedIn: linkedin.com/in/gabrielfonseca
+* Email: [gabdwork@gmail.com](mailto:gabdwork@gmail.com)
+
+"I build systems — sometimes APIs, sometimes data pipelines — but always with structure, clarity and long-term vision."

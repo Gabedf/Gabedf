@@ -56,5 +56,5 @@ Whether it's a REST API, a domain model, or a data pipeline, I care about struct
 
 ## Contact
 
-* LinkedIn: linkedin.com/in/gabrielfonseca
+* LinkedIn: https://www.linkedin.com/in/gabriel-leite-fonseca/
 * Email: [gabdwork@gmail.com](mailto:gabdwork@gmail.com)

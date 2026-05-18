@@ -1,60 +1,78 @@
 # Hi, I'm Gabriel Fonseca
 
-I'm a **Systems Information student (5th semester)** passionate about **software engineering and backend development — especially with Java**.
+Backend Engineering • Data Engineering • Systems Thinking
 
-At the same time, I work daily in **Data Engineering**, building pipelines, transforming data, and solving real business problems using **Python and SQL**.
+> Building systems from API layer to data layer.
 
-I don’t see development and data as separate worlds.
-I see them as different layers of the same system.
+I'm an Information Systems student focused on backend engineering, data infrastructure and scalable systems.
 
-## What Drives Me
+Currently, I work with real-world data workflows using Python and SQL, while deepening my backend expertise with Java and Spring Boot.
 
-* Systems thinking — understanding how everything connects end-to-end
-* Backend architecture & clean design (Java + Spring Boot)
-* Data pipelines, transformations & performance optimization
-* Building scalable, reliable and well-structured systems
+I’m especially interested in systems that connect application logic, architecture and data layers in a clean and maintainable way.
 
-Whether it's a REST API, a domain model, or a data pipeline, I care about structure, clarity and long-term maintainability.
+---
 
-## What I Do
+## What I Work With
 
-### Software Development (Passion & Long-Term Focus)
+### Backend Engineering
 
-* Backend development with **Java + Spring Boot**
-* Layered architecture (Controller → Service → Repository)
-* DTOs, REST APIs, clean code principles
-* Exploring microservices and scalable design
+* Java
+* Spring Boot
+* REST APIs
+* Layered Architecture
+* DTOs & Validation
+* PostgreSQL
 
-### Data Engineering (Professional Experience)
+### Data Engineering
 
-* SQL (CTEs, window functions, analytical queries)
-* Python (Polars, Pandas)
-* Data transformation & validation
-* ETL workflows and automation
-* Data modeling and performance optimization
+* Python
+* SQL
+* Polars / Pandas
+* ETL Pipelines
+* Data Validation & Transformation
+* Snowflake
 
-## Tech Stack
+### Tools
 
-**Languages:** Java, Python, C#, JavaScript, C
-**Backend:** Spring Boot
-**Data:** SQL, Polars, Pandas
-**Tools:** Git, Tableau, Snowflake
+* Git
+* Tableau
+
+---
 
 ## Current Focus
 
-* Deepening backend expertise with Java
-* Strengthening software architecture foundations
-* Advancing in data engineering fundamentals
-* Designing systems that properly connect application and data layers
+* Strengthening backend engineering foundations
+* Building scalable and maintainable systems
+* Improving software architecture knowledge
+* Deepening data engineering expertise
+* Understanding how systems behave end-to-end
+
+---
+
+## Engineering Mindset
+
+I care about:
+
+* clean architecture
+* maintainable systems
+* performance and scalability
+* understanding the “why” behind technologies
+* strong technical foundations over hype
+
+I see backend and data engineering as complementary parts of the same ecosystem.
+
+---
 
 ## About Me
 
 * Born in the US, raised in Brazil
+* Interested in engineering, business impact and scalability
 * Focused on long-term growth in tech
-* Interested in engineering, performance, business impact and scalability
-* I believe strong foundations beat hype
+* Always building and learning
+
+---
 
 ## Contact
 
-* LinkedIn: https://www.linkedin.com/in/gabriel-leite-fonseca/
+* LinkedIn: [www.linkedin.com/in/gabriel-leite-fonseca](http://www.linkedin.com/in/gabriel-leite-fonseca)
 * Email: [gabdwork@gmail.com](mailto:gabdwork@gmail.com)
